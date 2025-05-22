@@ -42,16 +42,3 @@ Revenue Trends → Track seasonal variations in sales.
 
 Customer Preferences → Understand ordering habits.
 
-5 Visualization & Analysis
-Charts & Graphs → Sales trends, revenue breakdowns.
-
-Pivot Tables → Aggregated insights.
-
-DAX Calculations → Advanced metrics in Power BI.
-
-6 Business Impact
-Improved Menu Strategy → Focus on high-demand pizzas.
-
-Optimized Staffing → Adjust schedules based on peak hours.
-
-Enhanced Marketing → Target promotions effectively.
