@@ -1,6 +1,6 @@
-# PIZZA_HUT_QUERIES
+# PIZZA_SALES ANALYSIS
 
-Pizza Hut Sales Analysis
+Pizza Sales Analysis
 Project Overview
 This project analyzes Pizza Hut sales data to uncover key business insights, including peak sales times, top-selling pizzas, revenue trends, and customer preferences. The goal is to optimize menu offerings, staffing, and marketing strategies.
 
